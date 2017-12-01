@@ -1,0 +1,3 @@
+rootProject.name = 'VanillaCounter'
+
+include ':app'
